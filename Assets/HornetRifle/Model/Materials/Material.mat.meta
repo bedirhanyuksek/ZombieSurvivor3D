@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fb8e5e5c927a904aab0ebbf4a69fca0
+timeCreated: 1431980635
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37309
+  packageName: Hornet rifle
+  packageVersion: 1.0.2
+  assetPath: Assets/HornetRifle/Model/Materials/Material.mat
+  uploadId: 419460

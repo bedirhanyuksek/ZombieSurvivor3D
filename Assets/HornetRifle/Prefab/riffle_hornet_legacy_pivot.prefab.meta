@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e36f1cba35b0f8847a9997bbd6292b95
+timeCreated: 1431985590
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37309
+  packageName: Hornet rifle
+  packageVersion: 1.0.2
+  assetPath: Assets/HornetRifle/Prefab/riffle_hornet_legacy_pivot.prefab
+  uploadId: 419460

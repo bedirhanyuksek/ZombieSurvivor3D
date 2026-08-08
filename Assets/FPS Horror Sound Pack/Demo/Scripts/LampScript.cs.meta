@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 36e5daf8f65b75a4697819a309b8cd89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289986
+  packageName: 'Ethereal Terror: FPS Horror Sound Pack'
+  packageVersion: 1.0
+  assetPath: Assets/FPS Horror Sound Pack/Demo/Scripts/LampScript.cs
+  uploadId: 694907
